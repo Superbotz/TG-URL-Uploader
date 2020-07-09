@@ -6,7 +6,7 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Made By @XHackerzKali 😎
+Join @Super_Botz 😎
 Made With 💗 In 🇮🇳"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
@@ -35,7 +35,7 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name: Free 
-Expires on: Never Thank @XHackerzkali 😎"""
+Expires on: Never😎"""
     HELP_USER = """Hai am URL Uploader bot..
     
 1. Send url (Link|New Name with Extension).
@@ -46,7 +46,7 @@ Expires on: Never Thank @XHackerzkali 😎"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-Made By @XHackerzKali 😎
+JOIN : @Super_Botz😎
 --------
 Send /me to know current plan details
 
